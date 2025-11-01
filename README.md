@@ -26,7 +26,7 @@ favorite_stack: [Go, PHP, Docker, Redis]
 
 </div>
 
-I'm a backend developer who loves building fast, scalable, and efficient systems. My passion lies in optimizing performance, designing clean APIs, and creating architectures that can handle millions of requests. When I'm not coding, I'm probably thinking about how to make my code run faster. ⚡
+I'm a backend developer who loves building fast, scalable, and efficient systems. My passion lies in optimizing performance, designing clean APIs, and creating architectures that can handle millions of requests. When I'm not coding, I'm probably thinking about how to make my code run faster.
 
 ---
 
@@ -87,21 +87,20 @@ I'm a backend developer who loves building fast, scalable, and efficient systems
 
 <div align="center">
 
-## 💼 What I'm Working On
+## What I'm Working On
 
 </div>
 
-- 🚀 Building high-performance backend APIs with **Go** and **PHP**
-- ⚡ Optimizing database queries and implementing caching strategies
-- 🔧 Exploring **Rust** for systems programming
-- 📚 Learning advanced system design patterns
-- 🎯 Contributing to open-source projects
+- Building high-performance backend APIs with **Go** and **PHP**
+- Exploring **Rust** for systems programming
+- Learning advanced system design patterns
+- Contributing to open-source projects
 
 ---
 
 <div align="center">
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elpol4k0/elpol4k0/output/pacman-contribution-graph-dark.svg">
@@ -115,7 +114,7 @@ I'm a backend developer who loves building fast, scalable, and efficient systems
 
 <div align="center">
 
-### ⚡ "Premature optimization is the root of all evil, but late optimization is the root of poor performance." ⚡
+### "Premature optimization is the root of all evil, but late optimization is the root of poor performance."
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/DEIN-LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:DEINE-EMAIL@example.com)
