@@ -52,7 +52,7 @@ I'm a backend developer who loves building fast, scalable, and efficient systems
 
 <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo" />
+<img src="./assets/valkey_logo.png" height="50" alt="valkey logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
 <img width="12" />
