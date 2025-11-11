@@ -12,18 +12,6 @@
 
 ## About Me
 
-```yaml
-name: Pawel
-role: Backend Developer
-focus:
-  - High-Performance Systems
-  - Scalable Architectures
-  - API Design & Optimization
-location: Germany
-currently_learning: Rust & System Design
-favorite_stack: [Go, PHP, Docker, Redis]
-```
-
 </div>
 
 I'm a backend developer who loves building fast, scalable, and efficient systems. My passion lies in optimizing performance, designing clean APIs, and creating architectures that can handle millions of requests. When I'm not coding, I'm probably thinking about how to make my code run faster.
