@@ -68,7 +68,7 @@ I'm a backend developer who loves building fast, scalable, and efficient systems
 ---
 
 <div align="center">
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elpol4k0&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=FFFFFF&sideLabels=FFD700&dates=FFFFFF&currStreakNum=FFFFFF&border=FFD700" alt="streak graph" />
 </div>
 
 ---
