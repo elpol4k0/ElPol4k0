@@ -16,6 +16,8 @@
 
 I'm a backend developer who loves building fast, scalable, and efficient systems. My passion lies in optimizing performance, designing clean APIs, and creating architectures that can handle millions of requests. When I'm not coding, I'm probably thinking about how to make my code run faster.
 
+</div>
+
 ---
 
 <div align="center">
