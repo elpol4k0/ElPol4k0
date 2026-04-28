@@ -32,6 +32,8 @@ I'm a backend developer who loves building fast, scalable, and efficient systems
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
 <img width="12" />
+<img src="https://skillicons.dev/icons?i=elixir" height="50" alt="elixir logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=vue" height="50" alt="vue logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=symfony" height="50" alt="symfony logo" />
