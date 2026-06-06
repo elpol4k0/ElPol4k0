@@ -81,7 +81,7 @@ I'm a backend developer who loves building fast, scalable, and efficient systems
 
 </div>
 
-- Building high-performance backend APIs with **Go** and **PHP**
+- Building high-performance backend APIs with **Go**
 - Exploring **Rust** for systems programming
 - Learning advanced system design patterns
 - Contributing to open-source projects
