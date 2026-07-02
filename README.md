@@ -41,6 +41,8 @@ I'm a backend developer who loves building fast, scalable, and efficient systems
 <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo" />
 
 <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
 <img width="12" />
